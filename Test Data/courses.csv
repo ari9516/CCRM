@@ -1,0 +1,52 @@
+code,title,credits,department,semester
+CSE1010,Fundamentals of Computing,3,Computer Science,FALL
+MAT2015,Advanced Calculus,4,Mathematics,FALL
+PHY1100,Physics Principles,4,Physics,SPRING
+CSE3015,Software Development,4,Computer Science,WINTER
+CSE2075,Algorithm Design,3,Computer Science,SPRING
+CSE2120,Computer Organization,4,Computer Science,FALL
+CSE3075,Data Management Systems,3,Computer Science,WINTER
+CSE4015,Software Design Patterns,3,Computer Science,FALL
+CSE4075,System Software,3,Computer Science,SPRING
+CSE4120,Network Fundamentals,3,Computer Science,WINTER
+MAT1015,Differential Calculus,4,Mathematics,FALL
+MAT3015,Matrix Algebra,3,Mathematics,SPRING
+MAT3075,Combinatorial Mathematics,3,Mathematics,WINTER
+STAT2015,Statistical Methods,3,Mathematics,FALL
+PHY2075,Electromagnetism,4,Physics,FALL
+ENG1015,Professional Writing,2,English,SPRING
+ENG1075,Communication Techniques,2,English,WINTER
+CSE5015,Pattern Recognition,3,Computer Science,SPRING
+CSE5075,Cognitive Systems,3,Computer Science,WINTER
+CSE5120,Database Architecture,3,Computer Science,FALL
+CSE6015,Senior Project I,2,Computer Science,FALL
+CSE6020,Senior Project II,2,Computer Science,SPRING
+ECE2015,Digital Systems,3,Electronics,FALL
+ECE2075,Circuit Theory,3,Electronics,SPRING
+ECE3015,Embedded Systems,3,Electronics,WINTER
+CSE3120,Internet Technologies,3,Computer Science,SPRING
+CSE3175,App Development,3,Computer Science,FALL
+CSE4175,Visual Computing,3,Computer Science,WINTER
+CSE4220,Information Security,3,Computer Science,SPRING
+CSE4275,Language Processors,3,Computer Science,FALL
+MGMT3015,Team Leadership,2,Management,WINTER
+MGMT3075,Innovation Management,2,Management,SPRING
+CHEM1015,Chemical Principles,3,Chemistry,FALL
+BIO1015,Biotechnology Basics,3,Biology,SPRING
+ENV2015,Sustainability Science,2,Environmental Studies,WINTER
+HUM1015,Digital Ethics,2,Humanities,SPRING
+HUM1075,Science Philosophy,2,Humanities,FALL
+PSY2015,User Experience Design,2,Psychology,WINTER
+ECO2015,Technical Economics,2,Economics,SPRING
+CSE2220,Programming Methods,3,Computer Science,WINTER
+CSE3220,Quality Assurance,2,Computer Science,FALL
+CSE4320,Parallel Systems,3,Computer Science,SPRING
+CSE4375,Server Infrastructure,3,Computer Science,WINTER
+CSE5175,Knowledge Discovery,3,Computer Science,FALL
+CSE5220,Image Processing,3,Computer Science,SPRING
+CSE5275,Text Analytics,3,Computer Science,WINTER
+MAT4015,Computational Methods,3,Mathematics,FALL
+MAT4075,Stochastic Processes,3,Mathematics,SPRING
+STAT3015,Statistical Modeling,3,Mathematics,WINTER
+PHY3015,Contemporary Physics,3,Physics,FALL
+PHY3075,Quantum Physics,4,Physics,SPRING
