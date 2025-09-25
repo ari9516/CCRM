@@ -1,10 +1,5 @@
 # Campus Course & Records Manager (CCRM)
 
-![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=java)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
-
 ## 👤 Developer Information
 **Name:** Arnab Kumar  
 **Registration Number:** 24BCE11017 
